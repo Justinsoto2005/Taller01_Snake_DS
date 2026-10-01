@@ -20,35 +20,35 @@ Ejemplo:
 
 Push exitoso:
 
-![Push exitoso del líder](capturas/lider_push_exitoso.png)
+![Push exitoso del líder](Taller01-Snake/Taller01-Snake/capturas/lider_push_exitoso.png)
 
 ### Integrante 1
 
 Error antes de resolver conflicto:
 
-![Error Integrante 1](capturas/integrante1_error.png)
+![Error Integrante 1](Taller01-Snake/Taller01-Snake/capturas/integrante1_error.png)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 1](capturas/integrante1_push_exitoso.png)
+![Push exitoso Integrante 1](Taller01-Snake/Taller01-Snake/capturas/integrante1_push_exitoso.png)
 
 ### Integrante 2
 
 Error antes de resolver conflicto:
 
-![Error Integrante 2](capturas/integrante2_error.png)
+![Error Integrante 2](Taller01-Snake/Taller01-Snake/capturas/integrante2_error.png)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 1](capturas/integrante2_push_exitoso.png)
+![Push exitoso Integrante 1](Taller01-Snake/Taller01-Snake/capturas/integrante2_push_exitoso.png)
 
 ### Integrante 3
 
 Error antes de resolver conflicto:
 
-![Error Integrante 3](capturas/integrante3_error.png)
+![Error Integrante 3](Taller01-Snake/Taller01-Snake/capturas/integrante3_error.png)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 3](capturas/integrante3_push_exitoso.png)
+![Push exitoso Integrante 3](Taller01-Snake/Taller01-Snake/capturas/integrante3_push_exitoso.png)
 ```
