@@ -15,7 +15,6 @@ Coloque las capturas dentro de una carpeta llamada `capturas/` y enláselas en e
 
 Ejemplo:
 
-```markdown
 ### Líder
 
 Push exitoso:
@@ -51,4 +50,3 @@ Error antes de resolver conflicto:
 Push exitoso después de resolver conflicto:
 
 ![Push exitoso Integrante 3](Capturas/integrante3_push_exitoso.jpeg)
-```
