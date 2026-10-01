@@ -29,7 +29,7 @@ Error antes de resolver conflicto:
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 1](Capturas/integrante1_push_exitoso.jpeg)
+![Push exitoso Integrante 1](Capturas/integrante1_push_exitoso.png)
 
 ### Integrante 2
 
